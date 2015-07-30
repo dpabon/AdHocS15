@@ -40,3 +40,5 @@ Aplicación creada con el fin de sistematizar la obtención de genomas de las es
 * Ruegeria sp. TM1040
 * Sphingomonas wittichii RW1
 * Zymomonas mobilis subsp. mobilis ZM4
+
+Los codigos utilizados para la descarga de genomas fueron tomados y modificados de 	Contreras-Moreira, Bruno. Taller de (bio)Perl. 2010. [http://161.111.227.80/compbio/material/bioperl/node14.html](http://161.111.227.80/compbio/material/bioperl/node14.html)
