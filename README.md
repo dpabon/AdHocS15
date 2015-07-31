@@ -42,13 +42,22 @@ Aplicación creada con el fin de sistematizar la obtención de genomas de las es
 * Zymomonas mobilis subsp. mobilis ZM4
 
 Requisitos:
+
 1. [Perl](https://www.perl.org/)
+
 2. [Bioperl](http://www.bioperl.org/wiki/Main_Page)
 
-##### La mayoria de distribuciones basadas en Debian traen por defecto Perl. Para instalar bioperl:#####
+##### La mayoria de distribuciones basadas en Debian traen por defecto Perl. Para instalar Bioperl:#####
 ```
 sudo apt-get install bioperl
 ```
 Descomprima la carpeta y de permisos de ejecución al archivo *AdHocS15.sh*
 
+```
+sudo chmod +x AdHocS15.sh
+```
+Para ejecutar el programa teclee:
+```
+./ AdHocS15.sh
+```
 Los codigos utilizados para la descarga de genomas fueron tomados y modificados de 	ContrerasMoreira, Bruno. Taller de (bio)Perl. 2010. [http://161.111.227.80/compbio/material/bioperl/node14.html](http://161.111.227.80/compbio/material/bioperl/node14.html)
