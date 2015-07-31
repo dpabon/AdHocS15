@@ -3,8 +3,8 @@ Aplicación creada con el fin de sistematizar la obtención de genomas de las es
 
 * Chromobacterium violaceum ATCC 12472
 * Dechloromonas aromatica RCB
-* Escherichia coli str. K-12 substr. MG1655
-* Acidiphilium cryptum JF-5
+* Escherichia coli str. K12 substr. MG1655
+* Acidiphilium cryptum JF5
 * Alphaproteobacterium HIMB114
 * Anaplasma phagocytophilum HZ
 * Arabidopsis thaliana
@@ -25,14 +25,14 @@ Aplicación creada con el fin de sistematizar la obtención de genomas de las es
 * Hirschia baltica ATCC 49814
 * Hyphomonas neptunium ATCC 15444
 * Jannaschia sp. CCS1
-* Magnetospirillum magneticum AMB-1 DNA
-* Maricaulis maris MCS10 .
+* Magnetospirillum magneticum AMB1 DNA
+* Maricaulis maris MCS10
 * Methylobacterium chloromethanicum
 * Methylocella silvestris BL2
-* Micavibrio aeruginosavorus ARL-13
+* Micavibrio aeruginosavorus ARL13
 * NPH Bacterium
 * Paracoccus denitrificans PD1222
-* Parvibaculum lavamentivorans DS-1
+* Parvibaculum lavamentivorans DS1
 * Phenylobacterium zucineum HLK1
 * Rhizobium leguminosarum bv. trifolii WSM1325
 * Rhodospirillum rubrum ATCC 11170
@@ -41,4 +41,14 @@ Aplicación creada con el fin de sistematizar la obtención de genomas de las es
 * Sphingomonas wittichii RW1
 * Zymomonas mobilis subsp. mobilis ZM4
 
-Los codigos utilizados para la descarga de genomas fueron tomados y modificados de 	Contreras-Moreira, Bruno. Taller de (bio)Perl. 2010. [http://161.111.227.80/compbio/material/bioperl/node14.html](http://161.111.227.80/compbio/material/bioperl/node14.html)
+Requisitos:
+1. [Perl](https://www.perl.org/)
+2. [Bioperl](http://www.bioperl.org/wiki/Main_Page)
+
+##### La mayoria de distribuciones basadas en Debian traen por defecto Perl. Para instalar bioperl:#####
+```
+sudo apt-get install bioperl
+```
+Descomprima la carpeta y de permisos de ejecución al archivo *AdHocS15.sh*
+
+Los codigos utilizados para la descarga de genomas fueron tomados y modificados de 	ContrerasMoreira, Bruno. Taller de (bio)Perl. 2010. [http://161.111.227.80/compbio/material/bioperl/node14.html](http://161.111.227.80/compbio/material/bioperl/node14.html)
