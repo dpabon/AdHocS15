@@ -58,6 +58,6 @@ sudo chmod +x AdHocS15.sh
 ```
 Para ejecutar el programa teclee:
 ```
-./ AdHocS15.sh
+./AdHocS15.sh
 ```
 Los codigos utilizados para la descarga de genomas fueron tomados y modificados de 	ContrerasMoreira, Bruno. Taller de (bio)Perl. 2010. [http://161.111.227.80/compbio/material/bioperl/node14.html](http://161.111.227.80/compbio/material/bioperl/node14.html)
